@@ -5,8 +5,7 @@ description = 'Stores all SEC filings as PDF files for the requested ticker symb
 authors = ['Martin Sjöborg <martin@sjoborg.org>']
 readme = 'README.md'
 license = 'MIT'
-package-mode = false
-repository = 'https://github.com/python-poetry/poetry'
+repository = 'https://github.com/Sjoeborg/edgar'
 
 [tool.poetry.dependencies]
 python = '^3.12'
